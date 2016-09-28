@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dstc5/!svn/ver/15/dstc-rnn-ex/dstc5/scripts/config
+END
+dstc4_dev.flist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dstc5/!svn/ver/2/dstc-rnn-ex/dstc5/scripts/config/dstc4_dev.flist
+END
+dstc5_train.flist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dstc5/!svn/ver/2/dstc-rnn-ex/dstc5/scripts/config/dstc5_train.flist
+END
+dstc4_test.flist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dstc5/!svn/ver/2/dstc-rnn-ex/dstc5/scripts/config/dstc4_test.flist
+END
+dstc5_dev.flist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dstc5/!svn/ver/2/dstc-rnn-ex/dstc5/scripts/config/dstc5_dev.flist
+END
+ontology_dstc5.json
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dstc5/!svn/ver/15/dstc-rnn-ex/dstc5/scripts/config/ontology_dstc5.json
+END
+dstc4_pilot.flist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dstc5/!svn/ver/2/dstc-rnn-ex/dstc5/scripts/config/dstc4_pilot.flist
+END
+chinese
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dstc5/!svn/ver/2/dstc-rnn-ex/dstc5/scripts/config/chinese
+END
+dstc4_train.flist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dstc5/!svn/ver/2/dstc-rnn-ex/dstc5/scripts/config/dstc4_train.flist
+END
