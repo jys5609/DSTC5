@@ -6,7 +6,7 @@
 
 **STEP 0: Setting the DSTC 5 data** </br>
 
-Make a directory 'data', then put the DSTC5 data set in 'data'.
+Make a directory 'data', then put the DSTC5 data set in 'data'. </br>
 
 **STEP 1: Generate data for training** </br>
 
