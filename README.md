@@ -4,6 +4,11 @@
 
 ## Getting started
 
+**Version info**
+* theano 0.8.2
+* keras 1.0.6
+* python 2.7
+
 **STEP 0: Setting the DSTC 5 data** </br>
 
 Make a directory 'data', then put the DSTC5 data set in 'data'. </br>
